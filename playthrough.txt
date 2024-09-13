@@ -1,0 +1,19 @@
+get hoe
+go down
+get seeds
+go down
+get candle
+go up
+go south
+get pickaxe
+light candle
+light lantern
+go south
+get gem
+go north
+go north
+go up 
+plant seeds
+You Won the Game!!!!!!
+
+if you take the mushroom, you will die
